@@ -1,0 +1,13 @@
+[general]
+debug = false
+
+[ssh_server]
+start_ssh = false
+port = 2222
+host = "0.0.0.0"
+
+[security]
+allowed_keys = [
+    ["ssh-ed25519", "AAAAC3NzaC1lZDI1NTE5AAAAIC8Z81ThQhKvXefpDA8GfGSlGOhH5cx0ltDz9nzZszLO", "fschuetz@ieee.org"],
+    ["ssh-ed25519", "AAAAC3NzaC1lZDI1NTE5AAAAIMTL6+m+wHEyN2GjdAwDBOX3y325vJDjsZZRgeMDntJg", "fschuetz@MacBook-Pro.fritz.box"]
+    ]

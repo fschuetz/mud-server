@@ -1,0 +1,12 @@
+prefix=/Users/fschuetz/Development/balccon_badge/mud-server/target/debug/build/libsodium-sys-5da83091457f1a8c/out/installed
+exec_prefix=${prefix}
+libdir=/Users/fschuetz/Development/balccon_badge/mud-server/target/debug/build/libsodium-sys-5da83091457f1a8c/out/installed/lib
+includedir=${prefix}/include
+
+Name: libsodium
+Version: 1.0.18
+Description: A modern and easy-to-use crypto library
+
+Libs: -L${libdir} -lsodium
+Libs.private:  -pthread 
+Cflags: -I${includedir}

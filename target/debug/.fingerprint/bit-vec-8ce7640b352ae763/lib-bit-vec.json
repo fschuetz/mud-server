@@ -1,0 +1,1 @@
+{"rustc":5208427512371702208,"features":"[\"default\", \"std\"]","target":2003354006900681288,"profile":8987646332441898785,"path":17687660819639023446,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/bit-vec-8ce7640b352ae763/dep-lib-bit-vec"}}],"rustflags":["--cfg","tokio_unstable"],"metadata":5453604409853202200,"config":2202906307356721367,"compile_kind":0}

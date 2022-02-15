@@ -1,0 +1,6 @@
+cargo:rerun-if-changed=proto/trace.proto
+cargo:rerun-if-changed=proto/common.proto
+cargo:rerun-if-changed=proto/tasks.proto
+cargo:rerun-if-changed=proto/instrument.proto
+cargo:rerun-if-changed=proto/resources.proto
+cargo:rerun-if-changed=proto/async_ops.proto

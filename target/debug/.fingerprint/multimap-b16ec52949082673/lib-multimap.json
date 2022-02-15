@@ -1,0 +1,1 @@
+{"rustc":5208427512371702208,"features":"[]","target":4271131216631008185,"profile":8344124108420085910,"path":12731471093471211063,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/multimap-b16ec52949082673/dep-lib-multimap"}}],"rustflags":["--cfg","tokio_unstable"],"metadata":15243632052237775108,"config":2202906307356721367,"compile_kind":0}

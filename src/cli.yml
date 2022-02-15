@@ -1,0 +1,11 @@
+name: ubbs
+version: "0.0.1"
+author: Florian Schuetz <fschuetz@ieee.org>
+about: Micro bbs application
+args:
+  - ssh:
+      short: d
+      long: debug
+      value_name: ON|OFF
+      help: Enable or disable debug mode. Default is off.
+      takes_value: true

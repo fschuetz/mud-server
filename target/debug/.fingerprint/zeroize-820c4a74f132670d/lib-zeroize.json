@@ -1,0 +1,1 @@
+{"rustc":5208427512371702208,"features":"[]","target":12867981632844011919,"profile":8344124108420085910,"path":16694727503530972947,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/zeroize-820c4a74f132670d/dep-lib-zeroize"}}],"rustflags":["--cfg","tokio_unstable"],"metadata":4317945585732210332,"config":2202906307356721367,"compile_kind":0}
